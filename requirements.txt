@@ -1,0 +1,26 @@
+# Web application
+streamlit==1.30.0
+flask==2.3.2
+
+# API requests
+requests==2.30.0
+
+# Vector database and embeddings
+faiss-cpu==1.7.4
+langchain==0.0.184
+openai==0.27.7
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==0.8.11
+markdown==3.4.3
+
+# Speech recognition
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+
+# Image processing
+Pillow==9.5.0
+
+# Utilities
+python-dotenv==1.0.0

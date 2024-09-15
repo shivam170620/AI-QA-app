@@ -1,1 +1,1 @@
-# AI-QA-app
+# gpt-voice-assistant-ui
